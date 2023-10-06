@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+/* common css start */
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6F7CB2;
+}
+/* common css end */
+/* header start */
+header{
+    padding: 10px 0px;
+    
+}
+.menu{}
+.menu ul{}
+.menu ul li{
+    padding-right: 30px;
+}
+.menu ul li a{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+}
+.img{
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 38px;
+    padding-left: 30px;
+    padding-right: 310px;
+}
+.btn{}
+.btn_c{
+    font-family: 'Roboto', sans-serif;
+    color: white !important;
+    font-size: 12px;
+    background-color: #091133;
+    border-radius: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn_s{
+    margin-left: 15px;
+    width: 160px;
+    height: 26px;
+    flex-shrink: 0;
+}
+.btn_c:hover{
+    background-color: #5D6970;
+}
+.btn_c:active{
+    background-color: #5D6970 !important;
+}
+.banner{
+    padding-top: 100px;
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0px 0px 520px 0;
+}
+.content{
+    padding-top: 300px;
+    position: relative;
+}
+.content h1{
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 66px; /* 132% */
+    color: #091133;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.content p{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 30px; /* 166.667% */
+}
+.b_img{
+
+}
+.btn-f{
+    background-color: #091133;
+    color: #ffffff;
+    border-radius: 0;
+    justify-content: center;
+    align-items: center;
+}
+.btn-d{
+    width: 160px;
+    height: 36px;
+    flex-shrink: 0;
+    padding: 0;
+    font-size: 14px;
+}
+.btn-h{
+    background-color: #ffffff;
+    color: #091133;
+    border-radius: 0;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #091133;
+}
+.btn-f:hover{
+    background-color: #5D6970;
+    color: #ffffff;
+}
+.btn-h:hover{
+    background-color: #091133;
+    border: 2px solid #091133;
+    color: #fff;
+}
+.content button{
+    margin-top: 50px;
+}
+.conten{
+
+}
+.p_img{}
+/* header end */
+/* Powerfull start */
+.powerfull{
+    padding: 100px 0 0 0;
+}
+.cont{
+    margin-top: 80px;
+}
+.f_h2{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    color: #091133;
+    line-height: 48px;
+}
+.f_p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #6F7CB2;
+    line-height: 26px
+    padding: 0 92px 0 0;
+}
+.p_f{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #6F7CB2;
+    line-height: 26px
+    padding: 0 92px 0 0;
+    margin-bottom: 90px;
+}
+.icon{
+    padding-top: 100px;
+}
+.icon_img{
+    padding: 0px 0px 15px 0;
+}
+.img img{}
+.text{}
+.text h3{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    color: #091133;
+    line-height: 26px;
+}
+.text p{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    color: #5D6970;
+    line-height: 18px
+}
+/* Powerfull end */
+/* serives start */
+.servies{
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+.power{}
+.t_text{
+    margin-top: 90px;
+    padding: 0 28px 0 70px;
+}
+.t_text h3{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    color: #091133;
+    line-height: 48px;
+    padding: 0 0 0 15px;
+}
+.t_text p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 26px;
+    padding: 0 0px 0 18px;
+}
+.texd{
+
+}
+/* serives end */
+/* Everyone start */
+.everyone{
+    background-color: #E7ECFF;
+}
+.evert{
+    padding: 100px 260px 100px 260px;
+}
+.t_h4{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    color: #091133;
+    line-height: 48px;
+}
+.t_p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #6F7CB2;
+    line-height: 26px;
+}
+.hm_mm{
+    margin-bottom: 50px;
+}
+.hm_mm img{}
+.u_p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 26px;
+    margin-top: 5px;
+}
+.pr_p{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.button{
+    padding: 0 0px 0 205px;
+}
+/* Everyone end */
+/* footer start */
+.pre_ved{
+    float: left;
+}
+.footer{
+    background-color: #E7ECFF;
+    padding: 100px 0 40px 0;
+}
+.end{
+    float: right;
+}
+.foo_img{
+    text-align: center;
+}
+.foo_img img{
+    margin-top: -130px;
+}
+.rrr{
+    padding-top: 40px;
+}
+.dei{
+    float: left;
+}
+.dei ul {
+    padding-left: 0px;
+}
+.dei ul li{
+    padding-right: 50px;
+    display: inline;
+    list-style: none;
+}
+.dei ul li a{
+    text-decoration: none;
+}
+.deiman{
+    float: right;
+}
+.deiman ul{}
+.deiman ul li{
+    display: inline;
+    list-style: none;
+}
+.deiman ul li:list-chlid{
+    padding-right: 0px;
+}
+.deiman ul li a{
+    text-decoration: none;
+}
+.ai{
+
+}
+
+.deiman ul li a i{
+    padding-right: 20px;
+}
+/* footer end */

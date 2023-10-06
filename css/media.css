@@ -1,0 +1,292 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/* header start */
+	.content {
+    	text-align: center;
+    	padding-top: 40px;
+	}
+	.content h1 {
+    	font-size: 24px;
+    	line-height: 35px;
+    	margin-bottom: 10px;
+    	padding: 0 88px 0 0px;
+	}
+	.content p {
+    	font-size: 13px;
+    	line-height: 25px;
+    	padding: 0 88px 0 0px;
+	}
+	.content button {
+    	margin-top: 10px;
+	}
+	.conten {
+    	padding: 0 90px 0 0px;
+	}
+	/* powerfull start */
+	.powerfull {
+    	padding: 0px 0 0 0;
+	}
+	.cont {
+		text-align: center;
+    	margin-top: 20px;
+	}
+	.f_h2 {
+    	font-size: 20px;
+    	line-height: 25px;
+    	padding: 0 90px 0 0;
+	}
+	.f_p {
+    	font-size: 14px;
+    	padding: 0 85px 0 0px;
+	}
+	.p_f {
+    	font-size: 14px;
+    	margin-bottom: 39px;
+    	padding: 0 85px 0 0px;
+	}
+	.icon_img {
+    	padding: 0px 95px 15px 0px;
+	}
+	.text {
+    	padding: 0 80px 0 0;
+	}
+	.p_img {
+    	padding: 0 121px 0 35px;
+    	margin-bottom: 100px;
+	}
+	/* servies start */
+	.servies {
+    	padding-top: 0px;
+	}
+	.power {
+    	padding: 0 110px 0 25px;
+	}
+	.t_text {
+    	text-align: center;
+    	margin-top: 27px;
+    	padding: 0px 0px 0 0px;
+	}
+	.t_text h3 {
+    	font-size: 20px;
+    	line-height: 20px;
+    	padding: 0 90px 0 0px;
+	}
+	.t_text p {
+    	font-size: 14px;
+    	line-height: 22px;
+    	padding: 0 90px 0 0px;
+	}
+	/* Everyone start */
+	.evert {
+    	padding: 0px 0px 0px 0px;
+	}
+	.t_h4 {
+    	font-size: 18px;
+    	line-height: 26px;
+    	padding: 40px 90px 0 0;
+	}
+	.t_p {
+    	font-size: 14px;
+    	line-height: 22px;
+    	padding: 0 90px 0 0;
+	}
+	.hm_mm {
+    	padding: 0 90px 0 0;
+    	margin-bottom: 30px;
+	}
+	.pr_p {
+    	line-height: 0px;
+    	margin-bottom: 17px;
+    	padding: 0 80px 0 0;
+	}
+	.button {
+    	padding: 0 0px 0 12px;
+	}
+	.pre_ved {
+    	padding: 0 10px 0 26px;
+	}
+	.end {
+    	padding: 0 110px 0 0;
+	}
+	.foo_img {
+    	padding: 0px 100px 0px 0px;
+	}
+	.foo_img img {
+    	margin-top: -210px;
+	}
+	/* footer start */
+	.logo_top {
+    	padding: 100px 0 90px 0;
+	}
+	.dei ul li {
+    	padding-right: 6px;
+	}
+	.deiman {
+    	padding: 0 99px 0 0;
+	}
+	.deiman ul li a i {
+    	padding-right: 15px;
+	}
+	.deiman ul {
+    	padding-left: 0;
+    	padding: 0 32px 0 0px;
+	}
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/* banner start */
+	.content {
+    	text-align: center;
+    	padding-top: 150px;
+	}
+	.content h1 {
+    	font-size: 35px;
+    	line-height: 50px;
+	}
+	/* powerfull start */
+	.cont {
+    	text-align: center;
+    	margin-top: 0px;
+	}
+	.power {
+    	padding: 0 60px 0 60px;
+	}
+	.t_text {
+    	text-align: center;
+    	margin-top: 50px;
+    	padding: 0 28px 0 33px;
+	}
+	.texd {
+    	padding: 0 0 0 125px;
+	}
+	/* everyone start */
+	.evert {
+    	padding: 70px 50px 70px 50px;
+	}
+	.t_h4 {
+    	font-size: 30px;
+    	line-height: 35px;
+	}
+	.button {
+    	padding: 0 0px 0 110px;
+	}
+	.dei ul li {
+    	padding-right: 25px;
+	}
+	.deiman ul li a i {
+    	padding-right: 25px;
+	}
+	
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* header start */
+	.banner {
+    	padding: 0px 20px 0px 0px;
+	}
+	.content {
+		padding-top: 100px;
+    	text-align: center;
+	}
+	.content h1 {
+    	font-size: 30px;
+    	line-height: 40px;
+    	padding: 0 80px 0 80px;
+	}
+	.content p {
+    	font-size: 14px;
+    	line-height: 30px;
+    	padding: 0 100px 0 100px;
+	}
+	/* Powerfull start */
+	.cont {
+		padding: 0 90px 0 90px;
+    	text-align: center;
+	}
+	.f_h2 {
+    	font-size: 27px;
+	}
+	.f_p {
+    	font-size: 14px;
+	}
+	.p_f {
+		font-size: 14px;
+	}
+	.p_img {
+    	padding: 0 150px 0 170px;
+	}
+	/* srives start */
+	.servies {
+    	margin-bottom: 0px;
+	}
+	.power {
+    	padding: 0 100px 0 150px;
+	}
+	.t_text {
+    	text-align: center;
+    	margin-top: 40px;
+    	padding: 0 100px 0 100px;
+	}
+	.t_text h3 {
+   		font-size: 30px;
+    	line-height: 40px;
+	}
+	.t_text p {
+    	font-size: 15px;
+	}
+	.texd {
+    	padding: 0 0px 31px 170px;
+	}
+	/* Everyone start */
+	.evert {
+    	padding: 100px 150px 100px 150px;
+	}
+	.t_h4 {
+    	font-size: 27px;
+    	line-height: 32px;
+	}
+	.button {
+    	padding: 0 0px 0 100px;
+	}
+	/* footer top start */
+	.pre_ved {
+    	padding: 0 0px 0 0px;
+	}
+	.dei {
+    	padding: 0px 0px 0px 2px;
+	}
+	.dei ul li {
+    	padding-right: 30px;
+	}
+	.deiman ul li a i {
+    	padding-right: 25px;
+	}
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	/*Everyone start*/
+	.button {
+    	padding: 0px 0px 0 110px;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra	Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	.button {
+    	padding: 0 0px 0 290px;
+	}
+}
